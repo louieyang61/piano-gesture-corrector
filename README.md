@@ -24,16 +24,12 @@ The system provides real-time visual feedback directly on screen, helping pianis
 
 - Python 3.7+
 - Webcam
-- Libraries listed in `requirements.txt`
 
 ## Installation
 
 1. Clone this repository or download the files
 2. Install required dependencies:
 
-```bash
-pip install -r requirements.txt
-```
 
 ## Usage
 
